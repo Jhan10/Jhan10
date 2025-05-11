@@ -14,19 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <LexicalComposer
-         initialConfig={{
-            namespace: "MyEditor",
-            theme,
-            editable: editable,
-            nodes: nodeDependencies,
-            onError,
-         }}
-      >
-         <StyledRoot onMouseOver={handleOnMouseOverRoot} onMouseLeave={handleOnMouseLeaveRoot}>
-            <RichTextPlugin
-               contentEditable={<ContentEditable />}
-               placeholder={<div>{placeholder || "Enter some text..."}</div>}
-               ErrorBoundary={LexicalErrorBoundary}
-            />
-         </StyledRoot>
+<img src="fiile.svg" width="500" height="70">
+<div>
+ <img src="_assets/ClientsAPI/201239.png" width="500" height="70">
+ <span>Clients API</span>
+</div>
