@@ -16,7 +16,5 @@ Here are some ideas to get you started:
 -->
 <img src=_assets/fiile.svg >
 
-<img src=_assets/ClientsAPI/201239.png onmouseover="this.src='albion.png'" onmouseout="this.src='201239.png'">
-<span>Clients API</span>
+<img src=_assets/ClientsAPI/201239.png onmouseover="this.src='_assets/ClientsAPI/albion.png'" onmouseout="this.src='_assets/ClientsAPI/201239.png'">
 
- ![Clients API](_assets/ClientsAPI/201239.png)
