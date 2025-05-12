@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div>
 <p align="center">
- <img width="100px" src="https://github.com/user-attachments/assets/287871ad-6a5c-46ee-99ff-4bf2b4472525" align="center" alt="profile photo"
+ <img width="100px" src="_assets/my/my.png" align="center" alt="profile photo"
  style="border-radius: 50%;"
  />
  <h3 align="center">Olá!</h1>
