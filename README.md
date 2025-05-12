@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src=_assets/fiile.svg >
-
-<img src=_assets/ClientsAPI/201239.png onmouseover="this.src='_assets/ClientsAPI/albion.png'" onmouseout="this.src='_assets/ClientsAPI/201239.png'">
-
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">GitHub Readme Stats</h2>
+ <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
+</p>
+<p align="center">
+</p>
