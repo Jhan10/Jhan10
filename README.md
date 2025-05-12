@@ -34,7 +34,7 @@ Here are some ideas to get you started:
         <div class="storeArea"
         style="
             display: flex;
-    flex-direction: row;
+         flex-direction: row;
     flex-wrap: wrap;
     align-content: flex-start;
     justify-content: center;
@@ -42,13 +42,13 @@ Here are some ideas to get you started:
         ">
             <div class="storeItens"
                     style="
-                    padding: 50px;
+                    padding: 10px;
                     ">
                     <img src="_assets/ClientsAPI/Default.png" alt="">
                     <div class="itensInfo">
                           <span class="itemTitle">ClientsAPI</span>
                     </div>
-                    <button class="button-36" role="button" disabled='disabled'>Testar</button> Em breve
+                    <a href="">Testar</a> Em breve
             </div>
             <div class="storeItens"
                     style="
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
                     <div class="itensInfo">
                         <span class="itemTitle">Discount Checkout</span>
                     </div>
-                    <button class="button-36" role="button"disabled='disabled'>Testar</button> Em breve
+                    <a href="">Testar</a> Em breve
             </div>
             <div class="storeItens"
                     style="
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
                     <div class="itensInfo">
                         <span class="itemTitle">Acloptrad</span>
                     </div>
-                    <button class="button-36" role="button" disabled='disabled'>Testar</button> Em breve
+                    <a href="">Testar</a> Em breve
             </div>
             <div class="storeItens"
                     style="
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
                     <div class="itensInfo">
                         <span class="itemTitle">Material Dashboard</span>
                     </div>
-                    <button class="button-36" role="button" disabled='disabled'>Testar</button> Em breve
+                    <a href="">Testar</a> Em breve
             </div>
     </div>
  </div>
