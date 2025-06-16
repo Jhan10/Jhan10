@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 <div>
 <p align="center">
- <img width="100px" src="_assets/my/my.png" align="center" alt="profile photo" id="phot"
- style="border-radius: 50%;"
- />
+ <img width="100px" src="_assets/my/my.png" align="center" alt="profile photo" id="phot"/>
  <h3 align="center">Olá!</h1>
  <h2 align="center">Seja bem vindo ao meu repositório GitHub</h3>
 
