@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 <div>
 <p align="center">
- <img width="100px" src="_assets/my/my.png" align="center" alt="profile photo" id="phot"/>
- <h3 align="center">Olá!</h1>
- <h2 align="center">Seja bem vindo ao meu repositório GitHub</h3>
+ <img width="100px" src="_assets/my/my.png" align="center" alt="profile photo"/>
+ <div align="center">
+  <img src="_assets/saudacao.svg" width="400" height="300" alt="Hello Everyone!">
+ </div>
+ <h2 align="center">Seja bem vindo ao meu repositório GitHub</h2>
 
 <p>Estes são os principais projetos:</p>
 </p>
@@ -81,9 +83,3 @@ Here are some ideas to get you started:
     </div>
  </div>
 </div>
-
-<style>
-    #phot{
-        border-radius: 50%;
-    }
-</style>
