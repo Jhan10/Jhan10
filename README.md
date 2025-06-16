@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div>
 <p align="center">
- <img width="100px" src="_assets/my/my.png" align="center" alt="profile photo"
+ <img width="100px" src="_assets/my/my.png" align="center" alt="profile photo" id="phot"
  style="border-radius: 50%;"
  />
  <h3 align="center">Olá!</h1>
@@ -83,3 +83,9 @@ Here are some ideas to get you started:
     </div>
  </div>
 </div>
+
+<style>
+    #phot{
+        border-radius: 50%;
+    }
+</style>
