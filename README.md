@@ -41,3 +41,4 @@ Here are some ideas to get you started:
 | Projeto Electron para o Board de ferramentas rapidas e inteligentes que manipulam o clipboard do windows. | Projeto de testes de validação de *Preços* e *Descontos* aplicados. Validação baseada em Jest, com princípios do Cucumber utilizando BDD.<br /><br/>[Node.js, TS]| Projeto padrão simples de bot para discord <br /><br/> [JS]|
 |<a href="https://github.com/Jhan10/Aclopboard">Testar</a> Em breve | <a href="https://github.com/Jhan10/Discount_Checkout">Testar</a> Em breve |  <a href="https://github.com/Jhan10/J10Discord_Bot">Testar</a> Em breve |
 </div>
+
