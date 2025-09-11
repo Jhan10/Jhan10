@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
  <h2 align="center">Seja bem vindo ao meu repositório GitHub</h2>
 
-<img src="_assets/ola.jpg" width="400" height="200" alt="Hello Everyone!">
+<img src="https://res.cloudinary.com/dv33g6nco/image/upload/c_crop,w_405,h_180/v1757606295/ola_qd9egl.avif" width="400" height="200" alt="Hello Everyone!">
 
 </div>
 <br/>
-<p>Estes são os principais projetos:</p>
+<p>Estes são alguns dos meus projetos:</p>
 </p>
 
 | ClientsAPI | MS-Email| Acloptrad | [PWA Micro-MVC](https://micro-mvc.vercel.app/) |
